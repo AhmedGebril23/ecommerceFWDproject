@@ -1,0 +1,8 @@
+file:src/main/resources/features/F07_filter_with_colorfeature.feature:4
+file:src/main/resources/features/F08_Productstag.feature:6
+file:src/main/resources/features/F06_select_different_Categories.feature:5
+file:src/main/resources/features/F12CreatesuccessfulOrder.feature:5
+file:src/main/resources/features/F09_AddShoppingcart.feature:4
+file:src/main/resources/features/F04_Search.feature:9
+file:src/main/resources/features/F10_AddWishlistcart.feature:5
+file:src/main/resources/features/F11_Addtocomparecart.feature:5
